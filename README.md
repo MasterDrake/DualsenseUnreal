@@ -40,6 +40,9 @@ Built with a cross-platform architecture, this Unreal Engine plugin provides a u
 
 Designed to bridge the gap left by generic controller support, this asset empowers developers to implement the high-fidelity, immersive feedback that makes Sony's controllers unique.
 
+https://github.com/slonopotamus/WindowsDualsenseUnreal
+https://github.com/Mystfit/Unreal-Dualsense
+
 ## ✨ Features
 * 🏗️ **Extensible Multi-Platform Architecture**: Its flexible design enables compilation across all Unreal Engine platforms. Supporting new hardware is as simple as implementing the connection interface.
 * 🔌 **Dynamic Connection (Hot-Swap)**: Automatically detects controller connection and disconnection, even during gameplay.
